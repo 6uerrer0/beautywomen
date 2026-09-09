@@ -1,2 +1,2 @@
-create data base if not exists productos;
-use productos;
+CREATE DATABASE IF NOT EXISTS productos;
+USE productos;
